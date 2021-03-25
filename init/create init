@@ -17,6 +17,8 @@
 		".Trashes"
 	],
 	"folder_exclude_patterns":
+	
+	
 	[
 		".git",
 		"node_modules"
@@ -30,6 +32,8 @@
 	"match_brackets_angle": true,
 	"remember_open_files": false,
 	"rulers":
+	
+	
 	[
 		80
 	],
