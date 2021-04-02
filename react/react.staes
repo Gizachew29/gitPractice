@@ -26,3 +26,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+  class Comp extends React.Component {
+      componentDidUpdate(prevProps) {
+        // will be true
+        const locationChanged =
+          this.props.location !== prevProps.location;
+    
+          console.error("this is where the location would run");
+          alert("test"+locationChanged);
+    
+      }
+    }
