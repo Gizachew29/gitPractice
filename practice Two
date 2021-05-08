@@ -6,4 +6,5 @@ GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
 If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
 Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects.
-Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions.
+Git is installed and maintained on your local system (rather than in the cloud) and 
+gives you a self-contained record of your ongoing programming versions.
